@@ -1,8 +1,8 @@
-# Quantum-vs-Classical-Algorithms-Traveling-Salesman-Problem
+# Quantum Optimization for Energy-Efficient Route-Finding
 
 ## Overview
 
-This mini-project for EPFL Quantum Sustainability Class focuses on implementing and comparing classical algorithms with the Quantum Approximate Optimization Algorithm (QAOA) for solving the Traveling Salesman Problem (TSP). The project is showcased in two Jupyter Notebooks: `ClassicalTSP.ipynb` and `QAOATSP.ipynb`.
+This Project for EPFL Quantum Sustainability Class, inspired by the University of Waterloo Institute for Quantum Computing (IQC) problem description, focuses on implementing and comparing classical algorithms with the Quantum Approximate Optimization Algorithm (QAOA) for solving the Traveling Salesman Problem (TSP). The project is showcased in two Jupyter Notebooks: `ClassicalTSP.ipynb` and `QAOATSP.ipynb`.
 
 ## Classical Approach
 
